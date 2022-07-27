@@ -8,6 +8,8 @@ U can start selection by pressing the q key and end selection by pressing the e 
 When u finish exit from this mode by pressing shift + alt + c.
 To paste text press shift + alt + p.
 
+by Bogdan Tomic
+
 FOR XV6
 
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
