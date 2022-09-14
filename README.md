@@ -9,4 +9,4 @@ To start selection press the q key and to end selection press the e key.
 When u finish exit from this mode by pressing shift + alt + c.
 To paste text press shift + alt + p.
 
-by Bogdan Tomic
+Dev: Bogdan Tomic
